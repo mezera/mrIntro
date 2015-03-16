@@ -296,8 +296,12 @@ xlabel('Normalized Frequency'); ylabel('Normalized Power'); title('Fourier Space
 %
 
 %%
-%  $$$     The sections bellow are advanced try to go over it. it is ok if you don't fully get it   $$$
+%  $$$     All sections bellow are advanced try to go over it. it is ok if you don't fully get it   $$$
 %
+% on the other hand if you like to try more go to kspace demo directory and
+% run:
+% 1. kspaceDemo.m
+% 2.  mrTurDWI.m
 %% Slice selection  
 %
 %
